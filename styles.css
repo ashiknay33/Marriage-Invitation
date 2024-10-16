@@ -41,6 +41,12 @@ body {
     margin: 10px 0;
 }
 
+.content .quote {
+    font-size: 24px;
+    margin: 10px 0;
+    font-style: italic;
+}
+
 .countdown p {
     font-size: 24px;
     margin: 20px 0 10px;
