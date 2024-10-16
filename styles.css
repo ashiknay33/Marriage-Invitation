@@ -35,7 +35,7 @@ body {
     color: #ff4081;
 }
 
-.content .date, .content .venue, .content .lunch {
+.content .date, .content .venue, .content .lunch, .content .location {
     font-size: 18px;
     margin: 10px 0;
 }
