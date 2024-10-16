@@ -17,10 +17,10 @@ body {
 /* Invitation Card Container */
 .invitation-container {
     background: rgba(0, 0, 0, 0.6);
-    padding: 30px;
+    padding: 10px;
     border-radius: 15px;
     width: 80%;
-    max-width: 1600px;
+    max-width: 600px;
     text-align: center;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.8);
 }
