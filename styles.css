@@ -27,6 +27,7 @@ body {
 /* Content Styling */
 .content h1 {
     font-size: 48px;
+    font-family: "Lucida Handwriting", cursive;
     margin: 0;
 }
 
