@@ -25,6 +25,11 @@ body {
 }
 
 /* Content Styling */
+
+.content h1 {
+        font-size: 18px;
+    margin: 10px 0;
+}
 .content h2 {
     font-size: 48px;
     font-style: italic;
@@ -40,4 +45,3 @@ body {
         font-size: 21px;
     margin: 10px 0;
 }
-
