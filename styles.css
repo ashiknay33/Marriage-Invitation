@@ -32,10 +32,6 @@ body {
     margin: 0;
 }
 
-.content h1 span {
-    color: #ff4081;
-}
-
 .content .date, .content .venue, .content .lunch, .content .location, .content .quote {
     font-size: 18px;
     margin: 10px 0;
@@ -44,16 +40,5 @@ body {
     font-size: 24px;
     margin: 10px 0;
     font-style: italic;
-}
-
-.countdown p {
-    font-size: 24px;
-    margin: 20px 0 10px;
-}
-
-#countdown span {
-    font-size: 32px;
-    margin: 0 5px;
-    color: #ff4081;
 }
 
