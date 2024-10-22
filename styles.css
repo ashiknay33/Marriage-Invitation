@@ -28,6 +28,7 @@ body {
 
 .content h1 {
         font-size: 18px;
+    text-color: black;
     margin: 10px 0;
 }
 .content h2 {
