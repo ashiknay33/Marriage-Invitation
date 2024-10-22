@@ -6,7 +6,7 @@ body {
     background-image: url('https://i.pinimg.com/originals/da/e1/c1/dae1c11aa1d72da7e9286c0a79b66a76.jpg');
     background-size: cover;
     background-position: center;
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
     color: white;
     height: 100vh;
     display: flex;
